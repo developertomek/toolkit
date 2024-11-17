@@ -12,4 +12,4 @@ The included tools are:
 - [X] Upload files to a directory
 - [X] Create a directory, if it doesn't exist
 - [ ] Download a static file
-- [ ] Create a URL safe slug from a string
+- [X] Create a URL safe slug from a string
