@@ -11,5 +11,5 @@ The included tools are:
 - [ ] Post JSON to a remote service
 - [X] Upload files to a directory
 - [X] Create a directory, if it doesn't exist
-- [ ] Download a static file
+- [X] Download a static file
 - [X] Create a URL safe slug from a string
